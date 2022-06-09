@@ -2,11 +2,6 @@
 
 A Mortgage Calculator
 
-**Date assigned:** Friday, September 17, 2021
-
-**Program due:** Monday, September 27, 2021, \[9:15AM Sect 02; 1:00PM
-Sect 01\]
-
 **Points:** 25
 
 **This is an individual assignment.**
@@ -20,7 +15,7 @@ Sect 01\]
 3.  Introduce built-in functions from the cmath library
 
 If you run into any problems with this assignment, it is important that
-you come and see me or a TA [early]{.ul} so that we can help. Also, it
+you come and see me or a TA early so that we can help. Also, it
 is very important for you to do this assignment on your own. Every
 assignment you will be doing from now on will require the techniques you
 learned in class and in the lab.
@@ -157,4 +152,4 @@ cout \<\< pow (2.0, 3.0); // outputs 8.0 because 2.0<sup>3.0</sup> equals 8.0
         considered late.
 
 > **Good luck! And remember, if you have any problems, come and see
-> straight away. **
+> straight away. **
